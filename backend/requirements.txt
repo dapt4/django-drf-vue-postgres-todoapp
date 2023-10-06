@@ -1,0 +1,15 @@
+asgiref==3.7.2
+# Editable Git install with no remote (backend==0.1.0)
+-e /home/diego/Documentos/django-drf-vue-postgres-todoapp/backend
+Django==4.2.5
+django-cors-headers==4.2.0
+djangorestframework==3.14.0
+greenlet==3.0.0
+msgpack==1.0.7
+psycopg-binary==3.1.12
+psycopg2-binary==2.9.8
+pynvim==0.4.3
+python-dotenv==1.0.0
+pytz==2023.3.post1
+sqlparse==0.4.4
+typing_extensions==4.8.0
