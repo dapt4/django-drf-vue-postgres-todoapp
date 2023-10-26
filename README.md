@@ -41,7 +41,7 @@ run the command:
 `python manage.py migrate`
 
 finally the project run with: 
-django-drf-vue-postgres-todoappdjango-drf-vue-postgres-todoappdjango-drf-vue-postgres-todoapp
+
 `$ python manage.py runserver`
 
 open your RESTCLIENT (like postman) in: 
